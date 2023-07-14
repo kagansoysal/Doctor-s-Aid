@@ -1,0 +1,35 @@
+Patient Hayriye is recorded.
+Patient Deniz is recorded.
+Patient Ateş is recorded.
+Probability for Hayriye cannot be calculated due to absence.
+Recommendation for Ateş cannot be calculated due to absence.
+Patient Toprak is recorded.
+Patient Hypatia is recorded.
+Recommendation for Hypatia cannot be calculated due to absence.
+Patient Pakiz is recorded.
+Patient	Diagnosis	Disease			Disease		Treatment		Treatment
+Name	Accuracy	Name			Ins�dence	Name			Risk
+-------------------------------------------------------------------------
+create Hayriye	99.90%		Breast Cancer	50/100000	Surgery	40%
+create Deniz	99.990%		Lung Cancer	40/100000	Radiotherapy	50%
+create Ateş	99.00%		Thyroid Cancer	16/100000	Chemotherapy	2%
+create Toprak	98.00%		Prostate Cancer	21/100000	Hormonotherapy	20%
+create Hypatia	99.750%		Stomach Cancer	15/100000	Immunotherapy	4%
+create Pakiz	99.970%		Colon Cancer	14/100000	Targeted Therapy	30%
+Patient Ateş cannot be removed due to absence.
+Probability for Ateş cannot be calculated due to absence.
+Recommendation for Su cannot be calculated due to absence.
+Patient Su is recorded.
+Recommendation for Su cannot be calculated due to absence.
+Patient	Diagnosis	Disease			Disease		Treatment		Treatment
+Name	Accuracy	Name			Ins�dence	Name			Risk
+-------------------------------------------------------------------------
+create Hayriye	99.90%		Breast Cancer	50/100000	Surgery	40%
+create Deniz	99.990%		Lung Cancer	40/100000	Radiotherapy	50%
+create Ateş	99.00%		Thyroid Cancer	16/100000	Chemotherapy	2%
+create Toprak	98.00%		Prostate Cancer	21/100000	Hormonotherapy	20%
+create Hypatia	99.750%		Stomach Cancer	15/100000	Immunotherapy	4%
+create Pakiz	99.970%		Colon Cancer	14/100000	Targeted Therapy	30%
+create Su	98.00%		Breast Cancer	50/100000	Chemotherapy	20%
+Probability for Deniz cannot be calculated due to absence.
+Probability for Pakiz cannot be calculated due to absence.
